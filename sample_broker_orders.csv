@@ -1,0 +1,5 @@
+row_id,customer,order_number_raw,material,qty,copy_selected
+1,Retailer A, PO-45000012 ,Chocolate Box,120,True
+2,Retailer A,45000012,Biscuits,80,True
+3,Retailer B,PO 45000088,Gum,200,False
+4,Retailer C,45000101,Candy,60,True

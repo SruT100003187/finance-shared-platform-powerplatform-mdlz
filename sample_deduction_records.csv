@@ -1,0 +1,7 @@
+customer,deduction_id,invoice_no,amount_eur,reason,status
+EDEKA,DED-1001,INV-77421,1250.5,price difference,open
+EDEKA,DED-1002,INV-77429,785.0,delivery shortage,open
+REWE,DED-1003,INV-88112,310.75,damaged goods,in review
+EDEKA,DED-1004,INV-77990,1990.0,manual claim,open
+REWE,DED-1005,INV-88201,455.2,price condition,closed
+ALDI,DED-1006,INV-90120,620.15,quantity mismatch,open

@@ -1,0 +1,5 @@
+email_subject,attachment_name,sender
+EDEKA claim documents,Complaint_Invoice_INV-77421_EDK_2026-01.pdf,customer-upload@example.com
+New price offer file,PriceOffer_EDEKA_2026_Week03.xlsx,priceoffer@example.com
+Order return,Order_Return_REWE_2026-01-16.xlsx,orders@example.com
+Unclear file,scan_001.pdf,unknown@example.com

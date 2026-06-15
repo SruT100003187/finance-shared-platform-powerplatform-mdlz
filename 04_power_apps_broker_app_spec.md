@@ -8,4 +8,4 @@
 - Patch saved data into a SharePoint list.
 - Warn users about duplicate order numbers or missing required fields.
 
-A Power App is only useful if business users trust it. Small details such as duplicate handling, clear save behavior, and predictable copy logic decide whether people actually use the app.
+ The developed Power App is better used if business users trust it. Small details such as duplicate handling, clear save behavior, and predictable copy logic decide whether people actually use the app.
